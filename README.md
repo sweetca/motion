@@ -48,4 +48,8 @@ sh start.sh
 sh stop.sh
 ```
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.png)[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsweetca%2Fmotion.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsweetca%2Fmotion?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsweetca%2Fmotion.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsweetca%2Fmotion?ref=badge_large)
